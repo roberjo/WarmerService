@@ -7,7 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/roberjo/warmerservice)](https://github.com/roberjo/warmerservice/issues)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/PowerShell_5.0_icon.png" width="100" height="100">
+  ![image](https://github.com/user-attachments/assets/2d825646-0db1-4a03-807c-9819d6685862)
   <br>
   <strong>A robust and efficient endpoint warming utility</strong>
 </div>
