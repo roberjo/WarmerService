@@ -6,11 +6,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/roberjo/warmerservice?style=social)](https://github.com/roberjo/warmerservice)
 [![GitHub issues](https://img.shields.io/github/issues/roberjo/warmerservice)](https://github.com/roberjo/warmerservice/issues)
 
-<div align="center">
-  [![image](https://github.com/user-attachments/assets/2d825646-0db1-4a03-807c-9819d6685862)
-  <br>
-  <strong>A robust and efficient endpoint warming utility</strong>
-</div>
+![image](https://github.com/user-attachments/assets/bca52c3e-becc-49ce-b032-5ebc45181ade)
+
+<strong>A robust and efficient endpoint warming utility</strong>
 
 ---
 
